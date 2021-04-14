@@ -29,5 +29,5 @@
 ### Running the tests
 
 ```shell
--m unittest discover test # use from the base directory
+python -m unittest discover test # use from the base directory
 ```
